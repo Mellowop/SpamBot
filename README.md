@@ -16,7 +16,7 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheRiZoeL/SpamBot-deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mellowop/SpamBothttps://github.com/Mellowop/SpamBot
 
 
 # Support & Updates
@@ -25,4 +25,4 @@
 
 # Credits
 * [RiZoeL Creator](https://github.com/MrRizoel)
-* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
+* [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)https://github.com/Mellowop/SpamBot
